@@ -60,7 +60,7 @@ int main(int argc, char *argv[])
  * @n: number of zeros
  * @s: the string to add the zeros
  *
- *Return: a pointer to the result
+ * Return: a pointer to the result
  */
 char *find_power_mul(int n, char *s)
 {
